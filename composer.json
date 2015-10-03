@@ -1,0 +1,20 @@
+{
+    "name": "jshmrtn/wkhtmltopdf-osx-i386",
+    "description": "wkhtmltopdf | OS X | >= 10.6 | 32bit",
+    "keywords": ["pdf", "thumbnail", "snapshot", "wkhtmltopdf", "convert", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "http://wkhtmltopdf.org/",
+    "authors": [
+        {
+            "name": "Jeremy J. Zahner",
+            "email": "zahner@joshmartin.ch"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltopdf-osx-i386",
+        "bin/wkhtmltoimage-osx-i386"
+    ],
+    "require": {
+    }
+}
